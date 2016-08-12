@@ -1,0 +1,20 @@
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.csprojResolveAssemblyReference.cache
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.FrmLogin.resources
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.FrmPrincipal.resources
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.Properties.Resources.resources
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.csproj.GenerateResource.Cache
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.exe.config
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.exe
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.pdb
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\Sistema Sistemado.exe
+C:\Users\Programacao\Desktop\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\Sistema Sistemado.pdb
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.exe.config
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\Sistema Sistemado.exe
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\Sistema Sistemado.pdb
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.csprojResolveAssemblyReference.cache
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.FrmLogin.resources
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.FrmPrincipal.resources
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.Properties.Resources.resources
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\obj\Debug\PrjDSII3Tin.csproj.GenerateResource.Cache
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.exe
+C:\Users\Programacao\Desktop\DS II 3TIN\PrjDSII3Tin\PrjDSII3Tin\bin\Debug\Sistema Sistemado.pdb
